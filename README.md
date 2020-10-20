@@ -7,18 +7,18 @@
 - Folder illustration
 
 ## Purpose
-![purpose](readme_figure/purpose.PNG)
+![purpose](purpose.PNG)
 
 ## Our Prospsed SEPDEMI Method
-![purpose](readme_figure/method.PNG)
+![purpose](method.PNG)
 
 ## Main Theorem
 
 ### Main Theorem 1:
-![MainTheorem1](readme_figure/InitialPointComplexity.PNG)
+![MainTheorem1](InitialPointComplexity.PNG)
 
 ### Main Theorem 2:
-![MainTheorem2](readme_figure/minLambda.PNG)
+![MainTheorem2](minLambda.PNG)
 
 ### Main Theorem 3:
 ![MainTheorem3](readme_figure/EstError.PNG)
