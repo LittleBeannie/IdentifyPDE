@@ -10,7 +10,7 @@
 ![purpose](purpose.PNG)
 
 ## Our Prospsed SEPDEMI Method
-![purpose](method.PNG)
+![method](method.PNG)
 
 ## Main Theorem
 
